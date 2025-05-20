@@ -1,4 +1,6 @@
-# przykladowe funkcje utils .py
+"""
+test
+"""
 
 
 def add(a: int, b: int) -> int:
